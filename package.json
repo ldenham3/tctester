@@ -1,0 +1,19 @@
+{
+  "name": "tctester",
+  "version": "1.0.0",
+  "description": "test of testcafes ability to handle covered objs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldenham3/tctester.git"
+  },
+  "author": "lbaker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ldenham3/tctester/issues"
+  },
+  "homepage": "https://github.com/ldenham3/tctester#readme"
+}
