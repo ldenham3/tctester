@@ -6,3 +6,8 @@ fixture `Getting Started`
 test('My first test', async t => {
     // Test code
 });
+
+test('My second test', async t => {
+    await t
+        .click('#covered-button')
+});
