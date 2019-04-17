@@ -4,10 +4,16 @@
 
 .covered-button {
 	background: blue;
+	position: absolute;
+	left: 400px;
+	top: 100px;
 	color: #fff;
-	position:relative;
-    top: 191px;
-    left: 420px;
-    right: -420px;
-    bottom: -191px;
+}
+
+.cover-box {
+	background: yellow;
+	position: absolute;
+    z-index: 1;
+	width: 500px;
+	height: 300px;
 }
